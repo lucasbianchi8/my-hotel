@@ -1,4 +1,8 @@
 {
-  "users": [
-    { "id": 1, "completeName": "Lucas Bianchi", "age": 30, "favouriteColors": ["rojo", "verde", "amarillo"] }
+  "users": [{
+    "id": 1,
+    "completeName": "Lucas Bianchi",
+    "age": 30,
+    "favouriteColors": ["rojo", "verde", "amarillo"]
+  }]
 }
