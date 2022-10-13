@@ -4,5 +4,8 @@
     "completeName": "Lucas Bianchi",
     "age": 30,
     "favouriteColors": ["rojo", "verde", "amarillo"]
-  }]
+  }],
+  "profile": {
+    "name": "typicode"
+  }
 }
