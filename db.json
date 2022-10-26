@@ -3,10 +3,11 @@
     "id": 1,
     "completeName": "Lucas Bianchi",
     "age": 30,
+    "creationDate": "6-15-22, 9:03 AM",
     "favouriteColors": [
       {"value": "1", "description": "Negro"},
       {"value": "2", "description": "Amarillo"}
-    ]
+    ],
   }],
   "profile": {
     "name": "typicode"
